@@ -3,6 +3,6 @@
     "description": "Meteorite package for adding handwritten script fonts to Meteor apps (not cursive fonts).",
     "homepage": "https://github.com/awatson1978/fonts-handwritten",
     "author": "Abigail Watson  (http://www.pentasyllabic.com)",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "git": "https://github.com/awatson1978/fonts-handwritten.git"
 }
