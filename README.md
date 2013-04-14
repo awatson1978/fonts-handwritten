@@ -36,6 +36,12 @@ windsong
 ````
 
 ------------------------
+### Note
+
+To be perfectly honest, the fonts in this package are good, but not great.  They're workable scripts for handwritten text used in notes, callouts, tutorials, etc. but if anybody wants to swap them out for better selections, I'd be more than happy to accept pull requests.
+
+
+------------------------
 ### Copyright / Licensing
 
 These fonts were downloaded from various free font websites.  While obstensibly free, if you wind up using one in your website, you really ought to track down the author and donate to them.
