@@ -1,0 +1,56 @@
+@font-face
+{
+    font-family: ChalkDust;
+    src: url('/fonts/ChalkDust.ttf');
+}
+@font-face
+{
+    font-family: HarabaraHand;
+    src: url('/fonts/HarabaraHand.ttf');
+}
+@font-face
+{
+    font-family: ItAintRocketScience;
+    src: url('/fonts/ItAintRocketScience.ttf');
+}
+@font-face
+{
+    font-family: ShelterMe;
+    src: url('/fonts/ShelterMe.ttf');
+}
+@font-face
+{
+    font-family: WildScript;
+    src: url('/fonts/WildScript.ttf');
+}
+@font-face
+{
+    font-family: Windsong;
+    src: url('/fonts/Windsong.ttf');
+}
+
+
+
+.chalkdust{
+    font-family: ChalkDust;
+}
+.harabarahand{
+    font-family: HarabaraHand;
+}
+.itaintrocketscience{
+    font-family: ItAintRocketScience;
+    line-height: 1.8;
+}
+.shelterme{
+    font-family: ShelterMe;
+    font-size: 1.2em;
+}
+.wildscript{
+    font-family: WildScript;
+    font-size: 1.4em;
+}
+.windsong{
+    font-family: Windsong;
+    font-size: 1.5em;
+}
+
