@@ -27,7 +27,6 @@ fonts-handwritten includes a number of fonts, so try any of the following classe
 
 ````
 chalkdust
-awesome
 harabarahand
 itaintrocketscience
 shelterme
