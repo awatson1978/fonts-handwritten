@@ -40,9 +40,9 @@ windsong
 
 These fonts were downloaded from various free font websites.  While obstensibly free, if you wind up using one in your website, you really ought to track down the author and donate to them.
 
-http://www.dafont.com/harabarahand.font
-http://www.dafont.com/it-aint-rocket-science.font
-http://www.dafont.com/shelter-me.font
-http://www.dafont.com/wild-script-pl.font
-http://www.dafont.com/eraser.font
-http://www.fonts2u.com/windsong.font
+http://www.dafont.com/harabarahand.font  
+http://www.dafont.com/it-aint-rocket-science.font  
+http://www.dafont.com/shelter-me.font  
+http://www.dafont.com/wild-script-pl.font  
+http://www.dafont.com/eraser.font  
+http://www.fonts2u.com/windsong.font  
