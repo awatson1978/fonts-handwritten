@@ -38,8 +38,11 @@ windsong
 ------------------------
 ### Copyright / Licensing
 
-This font was downloaded from http://modernpictograms.com/
+These fonts were downloaded from various free font websites.  While obstensibly free, if you wind up using one in your website, you really ought to track down the author and donate to them.
 
-Modern Pictograms is a project of The Design Office, Providence, R.I. Except for social media logos, all pictograms are original drawings by John Caserta, licensed for use. Website by John Caserta & Greg Nemes. 
-
-Please go to their site and upgrade to the professional version.  It will make your site that much snazzier!
+http://www.dafont.com/harabarahand.font
+http://www.dafont.com/it-aint-rocket-science.font
+http://www.dafont.com/shelter-me.font
+http://www.dafont.com/wild-script-pl.font
+http://www.dafont.com/eraser.font
+http://www.fonts2u.com/windsong.font
