@@ -1,32 +1,32 @@
 @font-face
 {
     font-family: ChalkDust;
-    src: url('/fonts/ChalkDust.ttf');
+    src: url('/packages/fonts-handwritten/fonts/ChalkDust.ttf');
 }
 @font-face
 {
     font-family: HarabaraHand;
-    src: url('/fonts/HarabaraHand.ttf');
+    src: url('/packages/fonts-handwritten/fonts/HarabaraHand.ttf');
 }
 @font-face
 {
     font-family: ItAintRocketScience;
-    src: url('/fonts/ItAintRocketScience.ttf');
+    src: url('/packages/fonts-handwritten/fonts/ItAintRocketScience.ttf');
 }
 @font-face
 {
     font-family: ShelterMe;
-    src: url('/fonts/ShelterMe.ttf');
+    src: url('/packages/fonts-handwritten/fonts/ShelterMe.ttf');
 }
 @font-face
 {
     font-family: WildScript;
-    src: url('/fonts/WildScript.ttf');
+    src: url('/packages/fonts-handwritten/fonts/WildScript.ttf');
 }
 @font-face
 {
     font-family: Windsong;
-    src: url('/fonts/Windsong.ttf');
+    src: url('/packages/fonts-handwritten/fonts/Windsong.ttf');
 }
 
 
