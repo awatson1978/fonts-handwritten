@@ -51,3 +51,9 @@ http://www.dafont.com/shelter-me.font
 http://www.dafont.com/wild-script-pl.font  
 http://www.dafont.com/eraser.font  
 http://www.fonts2u.com/windsong.font  
+
+------------------------
+### Support
+Found this package to be useful?  Consider tipping the package maintainer for their time!  
+
+[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
