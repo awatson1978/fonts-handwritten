@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Meteorite package for adding handwritten script fonts to Meteor apps (not cursive fonts).',
-  version: '1.0.1',
+  version: '1.0.2',
   name: 'awatson1978:fonts-handwritten',
   git: 'http://github.com/awatson1978/fonts-handwritten.git'
 });
