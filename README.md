@@ -3,8 +3,8 @@
 Package for adding handwritten script fonts to Meteor apps (not cursive fonts).
 
 
-------------------------
-### Installation
+==================================
+#### Installation
 
 First, install the fonts-handwritten package from the command line, like so:
 
@@ -12,8 +12,8 @@ First, install the fonts-handwritten package from the command line, like so:
 meteor add awatson1978:fonts-handwritten
 ````
 
-------------------------
-### Data/Document Model
+==================================
+#### Data/Document Model
 
 Then, add the 'itaintrocketscience' class to the appropriate HTML tags, like so.
 
@@ -22,8 +22,8 @@ Then, add the 'itaintrocketscience' class to the appropriate HTML tags, like so.
 ````
 
 
-------------------------
-### Lexicon
+==================================
+#### Lexicon
 
 fonts-handwritten includes a number of fonts, so try any of the following classes:
 
@@ -36,14 +36,14 @@ wildscript
 windsong
 ````
 
-------------------------
-### Note
+==================================
+#### Note
 
 To be perfectly honest, the fonts in this package are good, but not great.  They're workable scripts for handwritten text used in notes, callouts, tutorials, etc. but if anybody wants to swap them out for better selections, I'd be more than happy to accept pull requests.
 
 
-------------------------
-### Copyright / Licensing
+==================================
+#### Copyright / Licensing
 
 These fonts were downloaded from various free font websites.  While obstensibly free, if you wind up using one in your website, you really ought to track down the author and donate to them.
 
