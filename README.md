@@ -1,4 +1,6 @@
-**fonts-handwritten** is a Meteorite package for adding handwritten script fonts to Meteor apps (not cursive fonts).
+## fonts-handwritten
+
+Package for adding handwritten script fonts to Meteor apps (not cursive fonts).
 
 
 ------------------------
@@ -7,13 +9,13 @@
 First, install the fonts-handwritten package from the command line, like so:
 
 ````
-mrt add fonts-handwritten
+meteor add awatson1978:fonts-handwritten
 ````
 
 ------------------------
 ### Data/Document Model
 
-Second, add the 'itaintrocketscience' class to the appropriate HTML tags, like so.  Dead simple, right?
+Then, add the 'itaintrocketscience' class to the appropriate HTML tags, like so.
 
 ````html
 <div>This is a barcode: <span class="itaintrocketscience">*123-45-6789*</span></div>
@@ -51,9 +53,3 @@ http://www.dafont.com/shelter-me.font
 http://www.dafont.com/wild-script-pl.font  
 http://www.dafont.com/eraser.font  
 http://www.fonts2u.com/windsong.font  
-
-------------------------
-### Support
-Found this package to be useful?  Consider tipping the package maintainer for their time!  
-
-[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
